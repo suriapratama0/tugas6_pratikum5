@@ -43,6 +43,11 @@
 	.format(no=i, nim=item[0], nama=item[1], nilaiTugas=item[2], nilaiUts=item[3], nilaiUas=item[4], nilaiAkhir=item[5]))
 	print("=============================================================================================================")
 
+-output
+# ![GitHub Logo](output.jpg)
+
+- Flowchart
+# ![GitHub Logo](tugas6flowchart.png)
 		
 
 
